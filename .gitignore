@@ -1,0 +1,17 @@
+*.exe
+*.sln
+*.resources
+*.obj
+*.pdb
+*.metagen
+*.recipe
+*.cache
+*.FileListAbsolute
+*.tlog
+*.filters
+*.user
+*.vcxproj
+*.zip
+*.vs
+x64/
+*.log
